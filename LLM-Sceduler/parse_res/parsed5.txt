@@ -1,0 +1,162 @@
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen64/stats.txt:
+	Average: 105423351.1100449
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen64/BW20/stats.txt:
+	Average: 102532703.55900213
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen64/BW5/stats.txt:
+	Average: 102532703.55900213
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen64/BW1/stats.txt:
+	Average: 102111926.28583634
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen64/BW10/stats.txt:
+	Average: 102532703.55900213
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen32/stats.txt:
+	Average: 296429479.2052642
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen32/BW20/stats.txt:
+	Average: 287179893.44635665
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen32/BW5/stats.txt:
+	Average: 285281695.7526496
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen32/BW1/stats.txt:
+	Average: 285281695.7526496
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen32/BW10/stats.txt:
+	Average: 287179893.44635683
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen16/stats.txt:
+	Average: 593084379.1271766
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen16/BW20/stats.txt:
+	Average: 600535764.2637241
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen16/BW5/stats.txt:
+	Average: 600535764.2637241
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen16/BW1/stats.txt:
+	Average: 596244690.5640901
+
+res_test/NVM_Backing/LLM_Cache/LINEAR/RD100/tgen16/BW10/stats.txt:
+	Average: 600535764.2637241
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW20/stats.txt:
+	Average: 94456197.0383461
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW5/stats.txt:
+	Average: 94519243.8460492
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW1/stats.txt:
+	Average: 94255475.73716424
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW10/stats.txt:
+	Average: 94499244.00604787
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen32/BW20/stats.txt:
+	Average: 189434215.6807882
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen32/BW5/stats.txt:
+	Average: 188678490.57207534
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen32/BW1/stats.txt:
+	Average: 188031726.60402963
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen32/BW10/stats.txt:
+	Average: 189038487.6920984
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen16/BW20/stats.txt:
+	Average: 376295917.0613082
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen16/BW5/stats.txt:
+	Average: 374557003.54397136
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen16/BW1/stats.txt:
+	Average: 374223534.1644968
+
+res_test/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen16/BW10/stats.txt:
+	Average: 374516556.0794949
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen64/stats.txt:
+	Average: 101608943.87786435
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen64/BW20/stats.txt:
+	Average: 105211719.88750839
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen64/BW5/stats.txt:
+	Average: 105211719.88750839
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen64/BW1/stats.txt:
+	Average: 104745830.0238285
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen64/BW10/stats.txt:
+	Average: 105211719.88750839
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen32/stats.txt:
+	Average: 282111327.2305598
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen32/BW20/stats.txt:
+	Average: 291900753.74372727
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen32/BW5/stats.txt:
+	Average: 291900753.74372715
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen32/BW1/stats.txt:
+	Average: 291900753.74372715
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen32/BW10/stats.txt:
+	Average: 291900753.7437272
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen16/stats.txt:
+	Average: 634966578.4576735
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen16/BW20/stats.txt:
+	Average: 643896643.8966439
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen16/BW5/stats.txt:
+	Average: 644496412.8582187
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen16/BW1/stats.txt:
+	Average: 627600000.0
+
+res_test/NVM_Backing/HBM_Cache/LINEAR/RD100/tgen16/BW10/stats.txt:
+	Average: 644496412.8582187
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW20/stats.txt:
+	Average: 94451310.47943556
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW5/stats.txt:
+	Average: 94479037.27638324
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW1/stats.txt:
+	Average: 94322267.41372614
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW10/stats.txt:
+	Average: 94637728.6945112
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen32/BW20/stats.txt:
+	Average: 189272429.10283598
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen32/BW5/stats.txt:
+	Average: 188755469.86872348
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen32/BW1/stats.txt:
+	Average: 188429447.95091507
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen32/BW10/stats.txt:
+	Average: 189075462.1889077
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen16/BW20/stats.txt:
+	Average: 376710958.9369854
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen16/BW5/stats.txt:
+	Average: 374679534.6102621
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen16/BW1/stats.txt:
+	Average: 373941665.1002442
+
+res_test/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen16/BW10/stats.txt:
+	Average: 374504314.9062939

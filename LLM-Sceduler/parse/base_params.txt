@@ -1,0 +1,4 @@
+avgRdBW
+avgWrBW
+avgMemAccLat
+numReads::total

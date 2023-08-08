@@ -1,0 +1,88 @@
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW20/stats.txt:
+	Average: 93777561.78339352
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW5/stats.txt:
+	Average: 93877559.1834611
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW1/stats.txt:
+	Average: 93804018.74481642
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW10/stats.txt:
+	Average: 93999848.01641431
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW20/stats.txt:
+	Average: 56668608.886524945
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW5/stats.txt:
+	Average: 56759432.405676015
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW1/stats.txt:
+	Average: 56589151.16273276
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW10/stats.txt:
+	Average: 56777183.851680964
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW20/stats.txt:
+	Average: 9384.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW5/stats.txt:
+	Average: 9390.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW1/stats.txt:
+	Average: 9391.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW10/stats.txt:
+	Average: 9407.0
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW20/stats.txt:
+	Average: 5676.0
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW5/stats.txt:
+	Average: 5677.0
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW1/stats.txt:
+	Average: 5660.0
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW10/stats.txt:
+	Average: 5680.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD0/tgen64/BW20/stats.txt:
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW20/stats.txt:
+	Average: 9384.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW5/stats.txt:
+	Average: 9390.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW1/stats.txt:
+	Average: 9391.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW10/stats.txt:
+	Average: 9407.0
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD0/tgen64/BW20/stats.txt:
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW20/stats.txt:
+	Average: 9384.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW5/stats.txt:
+	Average: 9390.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW1/stats.txt:
+	Average: 9391.0
+
+no_xbar_res/NVM_Backing/LLM_Cache/RANDOM/RD100/tgen64/BW10/stats.txt:
+	Average: 9407.0
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW20/stats.txt:
+	Average: 5676.0
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW5/stats.txt:
+	Average: 5677.0
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW1/stats.txt:
+	Average: 5660.0
+
+no_xbar_res/NVM_Backing/HBM_Cache/RANDOM/RD100/tgen64/BW10/stats.txt:
+	Average: 5680.0
